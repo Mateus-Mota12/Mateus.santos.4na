@@ -3,7 +3,7 @@ import sympy as sp
 import google.generativeai as genai
 
 # Coloque sua chave de API do Gemini aqui
-genai.configure(api_key="AIzaSyA3Qbz6ts7_ZTFbdlbJbBsDJHFWFhpLFV4")
+genai.configure(api_key="Sua ChaveAPI")
 
 # Inicializa o modelo Gemini
 model = genai.GenerativeModel()
